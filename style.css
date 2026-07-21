@@ -32,7 +32,7 @@ footer {
     color: #666;
 }
 
-button {
+.button {
     padding: 0.75rem 1.25rem;
     border: none;
     background: #2563eb;
@@ -41,6 +41,6 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.button:hover {
     background: #1d4ed8;
 }
